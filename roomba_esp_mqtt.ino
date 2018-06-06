@@ -10,9 +10,9 @@
 
 //USER CONFIGURED SECTION START//
 const char *hostName = "Roomba";
-const int FW_VERSION = 18060503;
+const int FW_VERSION = 06060606;
 const int noSleepPin = 0;
-const int wakeupInterval = 28000;
+const int wakeupInterval = 28000; //28 seconds
 bool retain_value = false;
 //USER CONFIGURED SECTION END//
 
