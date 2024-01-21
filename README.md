@@ -11,7 +11,7 @@ Code, hints, tips, tricks and general documentation used as basis and lots of in
 Uses Roomba library by Mike Macauley:
 * http://www.airspayce.com/mikem/arduino/Roomba
 
-#wiring:
+# wiring:
 
 ```
 Roomba  ESP
